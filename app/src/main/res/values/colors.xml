@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Background color for Recent Activity -->
+    <color name="category_RecentActivity">#00BCD4</color>
+
+    <!--Background color for Top Charts -->
+    <color name="category_TopCharts">#26A69A</color>
+
+    <!--Background color for Recommended -->
+    <color name="category_Recommended">#81C784</color>
+
+    <!--Background color for Feeling Lucky -->
+    <color name="category_FeelingLucky">#C5E1A5</color>
+
+    <!--Background color for My Music -->
+    <color name="category_MyMusic">#CDDC39</color>
+</resources>

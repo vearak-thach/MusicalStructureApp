@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.MainActivity">
+
+    <TextView
+        android:id="@+id/RecentActivity"
+        style="@style/CategoryStyle"
+        android:text="Recent Activity"
+        android:background="@color/category_RecentActivity"/>
+
+    <TextView
+        android:id="@+id/TopChart"
+        style="@style/CategoryStyle"
+        android:text="Top Charts"
+        android:background="@color/category_TopCharts"/>
+
+    <TextView
+        android:id="@+id/Recommended"
+        style="@style/CategoryStyle"
+        android:text="Recommended"
+        android:background="@color/category_Recommended"/>
+
+    <TextView
+        android:id="@+id/FeelingLucky"
+        style="@style/CategoryStyle"
+        android:text="Feeling Lucky"
+        android:background="@color/category_FeelingLucky"/>
+    <TextView
+        android:id="@+id/MyMusic"
+        style="@style/CategoryStyle"
+        android:text="My Music"
+        android:background="@color/category_MyMusic"/>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="RecentActivity">Recent Activity</string>
+    <string name="TopChartsActivity">Top Charts</string>
+    <string name="RecommendedActivity">Recommended</string>
+    <string name="FeelingLuckyActivity">Feeling Lucky</string>
+    <string name="MyMusicActivity">My Music</string>
+    <string name="Activity_Description2">This activity shows an image of the song. Above is a purchase option. Below are buttons to play a preview of ths song.</string>
+    <string name="Activity_Description">This activity lists the songs. Press 1 or 2.</string>
+    <string name="Activity_Description1">This activity list all purchased songs.</string>
+    <string name="Song1">1. Song</string>
+    <string name="Song2">2. Song</string>
+    <string name="String3">3. Song</string>
+    <string name="String4">4. Song</string>
+    <string name="String5">5. Song</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.musicalstructureapp.MyMusicActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/Activity_Description1"/>
+
+        <TextView
+            style="@style/SongOptionStyle"
+            android:text="@string/Song1" />
+
+        <TextView
+            style="@style/SongOptionStyle"
+            android:text="@string/Song2" />
+
+        <TextView
+            style="@style/SongOptionStyle"
+            android:text="@string/String3" />
+
+        <TextView
+            style="@style/SongOptionStyle"
+            android:text="@string/String4" />
+        <TextView
+            style="@style/SongOptionStyle"
+            android:text="@string/String5"/>
+    </LinearLayout>
+
+</ScrollView>
