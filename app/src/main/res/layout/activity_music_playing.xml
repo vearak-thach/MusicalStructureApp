@@ -10,10 +10,11 @@
     tools:context="com.example.android.musicalstructureapp.MusicPlayingActivity">
 
     <TextView
+        android:id="@+id/Purchase"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:text="Purchase" />
+        android:text="@string/Purchase" />
 
     <LinearLayout
         android:layout_width="match_parent"

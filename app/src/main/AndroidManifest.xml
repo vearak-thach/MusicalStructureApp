@@ -29,8 +29,10 @@
             android:label="@string/FeelingLuckyActivity" />
         <activity
             android:name=".MyMusicActivity"
-            android:label="My Music"/>
-        <activity android:name=".MusicPlayingActivity"></activity>
+            android:label="My Music" />
+        <activity android:name=".MusicPlayingActivity"
+            android:label="Music Playing Activity"/>
+        <activity android:name=".Payment_Activity"></activity>
     </application>
 
 </manifest>

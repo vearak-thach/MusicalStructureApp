@@ -13,4 +13,6 @@
     <string name="String3">3. Song</string>
     <string name="String4">4. Song</string>
     <string name="String5">5. Song</string>
+    <string name="Purchase">Purchase</string>
+    <string name="API_Description">In this activity the user can pay a song by tapping on the \'Purchase\' button in the previous activity. To pay for the song, I will implement the Android WalletFragment class.</string>
 </resources>
