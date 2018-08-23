@@ -1,6 +1,6 @@
 # MusicalStructureApp
 
-Android Beginners Project - Structuring an app and using explicit Intents to link different activities within the app..
+Android Beginners Project - Structuring an app and using explicit Intents to link different activities within the app.
 
 Combining various ideas and skills: 
 - Designing an app experience 
